@@ -1,4 +1,4 @@
-## Hi there, Im Aryan Kumar Shaw 👋
+## Hi there, Im Aryan Kumar Shaw 👋 
 
 # 💫 About Me:
 Enthusiastic Computer Science undergraduate with a strong foundation in DSA, full-stack development, and cloud <br>infrastructure. Experienced in AWS projects, hackathons, and building scalable tech solutions. Passionate about sharing <br>knowledge with the developer community on LinkedIn.
